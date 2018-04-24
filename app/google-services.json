@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727823509749",
+    "firebase_url": "https://egyuttlakunk-63afd.firebaseio.com",
+    "project_id": "egyuttlakunk-63afd",
+    "storage_bucket": "egyuttlakunk-63afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727823509749:android:7f589ad3e6cf3157",
+        "android_client_info": {
+          "package_name": "com.muustar.android.egyuttlakunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727823509749-fdlr7q83r9baigu5gohe0lp3eqrc272q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muustar.android.egyuttlakunk",
+            "certificate_hash": "a7ff206d8f1d88bacbda845c8ce0dcb6ff7de584"
+          }
+        },
+        {
+          "client_id": "727823509749-si42q47jm7dhpublj5vsmv013465cnvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGof-jW7A_hdPjLNdouEyzYzDOL6RJ24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727823509749-si42q47jm7dhpublj5vsmv013465cnvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
